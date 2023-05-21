@@ -8,8 +8,8 @@ The course is presented by Krish Naik, a well-known data scientist and educator 
 
 - Statistics and probability
 - Machine learning algorithms and techniques
+- Feature Engineering and Feature Selection
 - Deep learning and neural networks
-- Natural language processing
 - Time series analysis
 
 Each topic is covered in a series of video lectures, with accompanying code examples and exercises to help you practice and reinforce your understanding.
