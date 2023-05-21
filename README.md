@@ -6,13 +6,11 @@ Welcome to the GitHub repository for "Revising Data Science with Krish Naik". Th
 
 The course is presented by Krish Naik, a well-known data scientist and educator with extensive experience in the field. It covers a range of topics, including:
 
-- Data exploration and visualization
 - Statistics and probability
 - Machine learning algorithms and techniques
 - Deep learning and neural networks
 - Natural language processing
 - Time series analysis
-- Big data technologies and tools
 
 Each topic is covered in a series of video lectures, with accompanying code examples and exercises to help you practice and reinforce your understanding.
 
